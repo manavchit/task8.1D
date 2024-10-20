@@ -1,0 +1,39 @@
+/* Styles for FindQuestion component */
+.filter input {
+    width: 100%;
+    padding: 8px;
+    border-radius: 5px;
+    margin: 5px 0;
+    border: 1px solid #ccc;
+  }
+  
+  .Button {
+    margin-top: 10px;
+    background-color: #007bff;
+    color: white;
+    padding: 10px;
+    border-radius: 5px;
+    cursor: pointer;
+  }
+  
+  .Button:hover {
+    background-color: #0056b3;
+  }
+  
+  /* Styles for questions list */
+  .card {
+    padding: 15px;
+    background-color: white;
+    border-radius: 5px;
+    box-shadow: 0px 0px 5px rgba(0, 0, 0, 0.1);
+    margin-bottom: 10px;
+  }
+  
+  .card h2 {
+    margin: 0;
+    color: #333;
+  }
+  
+  .card p {
+    color: #555;
+  }
